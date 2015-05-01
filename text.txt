@@ -1,0 +1,5 @@
+### commands to populate a database:
+
+newEntry = className(property = "value" ...)
+session.add = (newEntry)
+session.commit ()
